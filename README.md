@@ -32,19 +32,6 @@
         }
         section {
             padding: 20px;
-         }
-        .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1rem;
-            margin-top: 2rem;
-        }
-        .gallery img {
-            width: 100%;
-            height: auto;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);    
-        }
         footer {
             background-color: #333;
             color: white;
@@ -115,14 +102,6 @@
     <p>Click below to upload the Notice Inviting Tender:</p>
     <a href="https://nicmar1.sharepoint.com/:f:/s/MBAACM-SectionF2024-2026/En7degy4NC9Lk16NHvNOP24BllW16RvwJS3iqmdcdvAESw?e=QLjIFf" class="btn">View NIT</a>
 </section>
- </div>
-    <div class="content" id="projects">
-        <h1>Our Projects</h1>
-        <p>Here are some of the projects we’ve completed:</p>
-        <div class="gallery">
-            <img src="project1.jpg" alt="Project 1">
-        </div>
-    </div>
 
 <section id="contact">
     <h2>Contact Us</h2>
