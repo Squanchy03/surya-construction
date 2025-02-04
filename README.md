@@ -89,7 +89,7 @@
 <section id="home">
     <h2>Welcome to Surya Construction</h2>
     <p>Surya Construction specializes in delivering high-quality real estate projects across India. With a focus on innovation and excellence, we transform visions into reality.</p>
-    <a href="https://nicmar1.sharepoint.com/:f:/s/MBAACM-SectionF2024-2026/En7degy4NC9Lk16NHvNOP24BllW16RvwJS3iqmdcdvAESw?e=QLjIFf" class="btn">Notice Inviting Tender (NIT)</a>
+    <a https://www.lntecc.com/>PROJECTS</a>
 </section>
 
 <section id="projects">
