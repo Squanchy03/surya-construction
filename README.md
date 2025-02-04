@@ -92,6 +92,7 @@
     <h2>Our Projects</h2>
     <p>Explore our completed and ongoing projects:</p>
     <ul>
+        <li><strong>Shree Ram Janmabhoomi Mandir</strong> - Ayodhya</li>
         <li><strong>High-Rise Residential Complex</strong> - Pune</li>
         <li><strong>Shopping Mall</strong> - Mumbai</li>
     </ul>
