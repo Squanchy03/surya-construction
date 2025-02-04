@@ -89,7 +89,7 @@
 <section id="home">
     <h2>Welcome to Surya Construction</h2>
     <p>Surya Construction specializes in delivering high-quality real estate projects across India. With a focus on innovation and excellence, we transform visions into reality.</p>
-    <a https://www.lntecc.com/>PROJECTS</a>
+<a href="https://www.lntecc.com/" class="btn">PROJECTS</a>
 </section>
 
 <section id="projects">
